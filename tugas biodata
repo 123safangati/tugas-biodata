@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Biodata Diri</title>
+</head>
+
+<body>
+    <!-- Untuk nama -->
+    <h1>BIODATA DIRI</h1>
+    <h2>UMI SAFANGATI HIDAYATUN</h2>
+    <div class="foto">
+        <img src="E:\web development\gambar\PAS FOTO.jpg"
+            alt="" width="200" height="auto">
+    </div>
+    <div class="biodata">
+        <table>
+            <tbody>
+                <!-- Untuk profil -->
+                <tr>
+                    <td class="text">Nama</td>
+                    <td>:</td>
+                    <td>Umi Safangati Hidayatun</td>
+                </tr>
+                <tr>
+                    <td class="text">Hobi</td>
+                    <td>:</td>
+                    <td>Playing Music, Photography, Traveling</td>
+                </tr>
+                <tr>
+                    <td class="text">Skill</td>
+                    <td>:</td>
+                    <td>Web Development, Data Analysis, NLP, Data Science, CV, Web Scraping, dll</td>
+                </tr>
+                <tr>
+                    <td class="text">Riwayat Pendidikan</td>
+                    <td>:</td>
+                    <td>
+                        <ul>
+                            <li>Kuliah : S1 Manajemen Universitas PGRI Yogyakarta</li>
+                            <li>SMA : SMAN 1 Bobotsari</li>
+                            <li>SMP : SMPN 1 Karanganyar</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+
+</html>
